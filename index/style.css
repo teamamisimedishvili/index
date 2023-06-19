@@ -1,0 +1,215 @@
+* { box-sizing: border-box;
+
+}
+@font-face {
+    font-family: Montserrat;
+    src: url(Montserrat-Regular.ttf);
+}
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.bredi1 {
+  
+    font-weight: 700;
+    font-size: 24px;
+    color: #252B42;
+}
+.linki1 {
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    font-family: 'Montserrat' !important;
+    margin-left: 21px !important;
+    color: #737373;
+}
+
+.login1 {
+    color: #23A6F0;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    border: none;
+    width: 41px;
+    height: 22px;
+}
+
+.Become1 {
+    background-color: #23A6F0; 
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    
+    border: none;
+    width: 214px;
+    height: 52px;  
+} 
+.xuti {
+    margin-top: 35px;
+    color: #252B42;
+    font-style: normal;
+    font-weight: 700;  
+    font-size: 14px;
+}
+.erti {
+    margin-top: 35px;
+    color: #252B42;
+    font-style: normal;
+    font-weight: 700;  
+    font-size: 58px;
+}
+.sami {
+   
+    color: #252B42;
+    font-style: normal;
+    font-weight: 700;  
+    font-size: 24px;
+    line-height: 32px;
+    margin-top: 20px;
+}
+
+.otxi {
+    font-size: 20px;
+    color: #737373;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 35px;
+}
+
+.iconebii {
+    margin-left: 25px;
+    margin-top: 45px;
+}
+.eqvsi {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #252B42;
+    text-align: center;
+}
+
+.hherti {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #252B42;
+    margin-top: 10px;
+}
+.georgiaa {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #252B42;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.Gett {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #252B42;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.Submit1 {
+    color: #23A6F0;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: 15px;
+    width: 214px;
+    height: 52px;  
+    background-color: transparent;
+    border: 1px solid #23A6F0;
+    border-radius: 37px;
+
+} 
+
+.young1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color:#FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wecen {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #252B42;
+    text-align: center;
+    
+}
+.tallk {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 80px;
+    color: #252B42;
+    text-align: center;
+}
+
+.Become2 {
+    background-color: #23A6F0; 
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    margin-top: 31px;
+    border: none;
+    width: 214px;
+    height: 52px;  
+    
+}
+.iconebiii{
+    margin-left: 25px;
+    width: 23px !important;
+    height: 23px !important;
+}
+
+.iconebiii1 {
+    margin-top: 15px;
+}
+
+.BANDAGE2 {
+  
+    font-weight: 700;
+    font-size: 24px;
+    color: #252B42;
+}
+.linkii{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #737373;
+    display: flex;
+    text-decoration: none;
+    
+}
+
+.bolo{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
